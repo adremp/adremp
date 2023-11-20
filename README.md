@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Andrey Podlesnyy
 - 🌱 My tech stack: TS, React, NextJS
 - 👨‍💻 Currently working on web development projects with a focus on front-end technologies.
-- 🤖 Passionate about exploring new trends in tech, especially in AI and machine learning.
+- 🤖 Reach out to me for web development collaborations or tech discussions!
 - 📫 Telegram [@adremp](https://t.me/adremp), Email ampodlesnyy@gmail.com
